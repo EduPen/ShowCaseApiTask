@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "StepDefinitions",
         dryRun = false,
-        tags = "@do"
+        tags = "@unixTime"
 
 )
 
